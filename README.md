@@ -1,7 +1,3 @@
-Sure, here's a sample README for a Spring Boot application deployed using Docker and Kubernetes:
-
----
-
 # Spring Boot Application with Docker and Kubernetes Deployment
 
 ## Overview
